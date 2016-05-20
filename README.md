@@ -8,4 +8,4 @@
 
 ## What if I just want the Mongoose Schema?
 
-* soon
+* Visit https://github.com/code-for-coffee/mongoose-user-model
